@@ -9,3 +9,10 @@
 - Interactive UI elements
 - Clean and structured code
 
+---
+
+## 🛠️ Technologies Used
+HTML5
+CSS3 (including Flexbox & Grid)
+
+---
