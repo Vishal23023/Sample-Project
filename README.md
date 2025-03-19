@@ -12,7 +12,7 @@
 ---
 
 ## 🛠️ Technologies Used
-HTML5
-CSS3 (including Flexbox & Grid)
+- HTML5
+- CSS3 (including Flexbox & Grid)
 
 ---
