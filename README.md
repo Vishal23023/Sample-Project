@@ -16,3 +16,6 @@
 - CSS3 (including Flexbox & Grid)
 
 ---
+
+## 📂 How to Use
+- Open the index.html file in your browser.
